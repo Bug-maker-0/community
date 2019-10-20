@@ -14,7 +14,7 @@
 [VP](http://www.visual-paradigm.com)
 
 ## 脚本
-'''sql
+```sql
 CREATE TABLE USER
 (
     ID int AUTO_INCREMENT PRIMARY KEY NOT NULL,
